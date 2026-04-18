@@ -2,6 +2,9 @@
 
 ### Dashboard Link : https://app.powerbi.com/links/CBAkC02rGP?ctid=91577f61-0170-494b-a390-0f33a2bb8755&pbi_source=linkShare&bookmarkGuid=c4dd1f9f-d443-45e0-ab0c-ebef3b5b28a2
 
+## Dashboard Walkthrough
+[Watch the Dashboard Demo on YouTube](https://youtu.be/u8V65aH-DTg)
+
 ## Problem Statement
 
 This dashboard helps **Prism Insurance Pvt. Ltd.** analyze their insurance portfolio and customer claim data. It provides insights into premium collections, coverage amounts, claim statuses, and customer sentiment — enabling the business to identify claim trends, understand policy performance across different categories, and improve customer experience.
